@@ -1,3 +1,5 @@
+"Welcome to Smartling!" = "Welcome to Smartling!"
+
 "Smartling Tips" = "Smartling Tips";
 
 "Create a localization strategy and roadmap" = "Create a localization strategy and roadmap";
@@ -25,3 +27,5 @@
 "Truck {{modelName}} is being found." = "Truck {{modelName}} is being found.";
 
 "Enjoy the new feature of our app!" = "Enjoy the new feature of our app!";
+
+"Test String" = "Test String";
