@@ -23,11 +23,3 @@
 // In each of the following strings, "modelName" is a placeholder that should not be editable by translators.
 
 "Truck %@ was being found." = "Camion %1$@ a été trouvé.";
-
-"Truck {{modelName}} is being found." = "Camion {{modelName}} se trouve.";
-
-"Enjoy the new feature of our app!" = "Profitez de la nouvelle fonctionnalité de notre application !";
-
-"Test String 1" = "Tiges d’essai 1";
-
-"Test String 2" = "Tiges d’essai 2";
