@@ -1,0 +1,25 @@
+"Welcome to Smartling!" = "Welcome to Smartling!"
+
+"Smartling Tips" = "Smartling conseils";
+
+"Create a localization strategy and roadmap" = "Créer une stratégie de localisation et de la feuille de route";
+
+"Put the user at the center of your localization strategy" = "Mettre l’utilisateur au centre de votre stratégie de localisation";
+
+"Code your app for easy translation" = "Code de votre application pour traduction facile";
+
+"Adhere to platform best practices" = "Se conformer aux pratiques exemplaires de plate-forme";
+
+"Localize for each region for a truly native experience" = "Localiser pour chacune des régions pour une expérience véritablement indigène";
+
+"Leverage translation technology and specialized tools" = "Tirer parti de la technologie de traduction et outils spécialisés";
+
+"Use an over-the-air service for translated content delivery" = "Utiliser un service en direct pour la diffusion de contenu traduit";
+
+"Tips" = "Conseils";
+
+"About" = "Sur";
+
+// In each of the following strings, "modelName" is a placeholder that should not be editable by translators.
+
+"Truck %@ was being found." = "Camion %1$@ a été trouvé.";
